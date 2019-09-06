@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chahceihex.openc2.com/sitemap.xml
